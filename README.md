@@ -1,3 +1,6 @@
+![Windows, macOS, Linux](https://github.com/kzkedzierska/CI_course/workflows/Windows,%20macOS,%20Linux/badge.svg)
+![Python 3.6-3.8](https://github.com/kzkedzierska/CI_course/workflows/Python%203.6-3.8/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
