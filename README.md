@@ -1,6 +1,7 @@
 ![Windows, macOS, Linux](https://github.com/kzkedzierska/CI_course/workflows/Windows,%20macOS,%20Linux/badge.svg)
 ![Python 3.6-3.8](https://github.com/kzkedzierska/CI_course/workflows/Python%203.6-3.8/badge.svg)
 [![codecov](https://codecov.io/gh/kzkedzierska/CI_course/branch/main/graph/badge.svg?token=QJYPFOWT7D)](https://codecov.io/gh/kzkedzierska/CI_course)
+[![BCH compliance](https://bettercodehub.com/edge/badge/kzkedzierska/CI_course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
